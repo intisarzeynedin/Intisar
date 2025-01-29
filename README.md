@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Intisar..:
+# 👋 Hi, I'm Intisar:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br>🔭 I’m currently working on improving my skills.<br>👯 I’m looking to collaborate on projects that focus on web development.<br>📫 How to reach me:  intisar9800@gmail.com .
 
 
